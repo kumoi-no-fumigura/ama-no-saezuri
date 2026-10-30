@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ama-no-saezuri",
  "yomi": "あまのさえずりしょう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（抄）",
+  "era": "江戸後期",
+  "author": "足代弘訓（1784〜1856）",
+  "desc": "伊勢外宮の祠官で国学者の足代弘訓の歌を抄出したもの。初春・子日・若菜など四季の題詠を中心とし、文政・天保の年記を含む。"
+ },
  "editions": [
   {
    "pid": "993381",
